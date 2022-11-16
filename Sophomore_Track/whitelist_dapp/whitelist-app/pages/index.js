@@ -199,7 +199,7 @@ export default function Home(){
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="yajas.jpg" />
+          <img className={styles.image} src="Yajas.jpg" />
         </div>
       </div>
 
