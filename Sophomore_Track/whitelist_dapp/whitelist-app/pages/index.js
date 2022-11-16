@@ -47,7 +47,7 @@ export default function Home(){
       const whitelistContract = new Contract(
         WHITELIST_CONTRACT_ADDRESS,
         abi,
-        provider
+        signer
       )
 
       const tx = await whitelistContract.addAddressToWhitelist();
