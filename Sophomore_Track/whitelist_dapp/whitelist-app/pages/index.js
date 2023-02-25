@@ -191,7 +191,7 @@ export default function Home(){
         <div className={styles.text}>
           <h1 className={styles.title}>Welcome to YajFans!</h1>
           <div className={styles.description}>
-            Its an exlusive followers fans group for Yajas Sardana
+            It's an exclusive followers fans group for Yajas Sardana
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Fans queue
